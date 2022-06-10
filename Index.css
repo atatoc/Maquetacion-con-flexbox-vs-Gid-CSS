@@ -1,0 +1,117 @@
+.maquetacion{
+    width: 600px;
+    height: 24rem;
+    background-color: #5e5e5e;
+    margin: 10% auto;
+
+}
+
+.fondo {
+    width: 580px;
+    height: 23.5rem;
+    background-color: white;
+    margin: 10% auto;
+
+}
+.recuadroarriba{
+    width: 580px;
+    height: 3rem;
+    background-color: #c6c6c6;
+    margin: 0.2%;
+}
+
+.blanco {
+    width: 580px;
+    height: 5rem;
+    background-color: white;
+display: flex;
+
+}
+
+.hola{
+    width: 30%;
+    height: 4.3rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #ff0000;
+    margin: 7px;
+  }
+.ojo{
+    width: 70%;
+    height: 4.3rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #ff0000;
+    margin: 7px;
+  }
+
+  .blancodos {
+    width: 580px;
+    height: 10rem;
+    background-color: white;
+display: flex;
+flex-direction: row;
+
+}
+
+.amarillo{
+    width: 50%;
+    height: 9rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #ffb300;
+    margin: 7px;
+  }
+
+.morado{
+    width: 300px;
+    height: 4.3rem;
+    flex-direction: row;
+    background-color: #8c004b;
+    margin: 7px;
+  }
+
+.moradodos{
+    width: 95.3%;
+    height: 4.3rem;
+    flex-direction: row;
+    background-color: #8c004b;
+    margin: 7px;
+  }
+
+  .blancotres {
+    width: 580px;
+    height: 5rem;
+    background-color: white;
+display: flex;
+}
+
+.aqua1{
+    width: 70%;
+    height: 4.3rem;
+    display: flex;
+    flex-direction: row;
+    background-color:#00656e;
+    margin: 7px;
+  }
+
+  .aqua2{
+    width: 70%;
+    height: 4.3rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #00656e;
+    margin: 7px;
+  }
+
+  .aqua3{
+    width: 70%;
+    height: 4.3rem;
+    display: flex;
+    flex-direction: row;
+    background-color: #00656e;
+    margin: 7px;
+  }
+
+  
+  
